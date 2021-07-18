@@ -1,6 +1,6 @@
 ### Hi, I'm Aceius
 I do things on the internet for fun.  
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AceiusIO)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AceiusIO)](https://github.com/anuraghazra/github-readme-stats)  
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AceiusIO)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AceiusIO)](https://github.com/anuraghazra/github-readme-stats)  
 
 https://acei.us
 <!--
