@@ -1,9 +1,11 @@
 ### Hi, I'm Aceius
-I make stuff, and do things on the internet for fun.  
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AceiusIO)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AceiusIO)](https://github.com/anuraghazra/github-readme-stats)  
+I make stuff, and do things on the internet for fun. I do web design, NodeJS, Electron & stuff.  
+Contact me to work somthing out, I'll take ether as a payment. Have a nice day :)  
+Etherium Wallet Address (for donating) `0x625dfa6CCEbA36e9b49754606605c68cb12CeD85`  
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AceiusIO&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AceiusIO&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
 
-https://acei.us
+#### https://acei.us
 <!--
 **AceiusIO/AceiusIO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
