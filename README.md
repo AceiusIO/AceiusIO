@@ -1,11 +1,11 @@
 ### Hi, I'm Aceius
-I make stuff, and do things on the internet for fun. I do web design, NodeJS, Electron & stuff.  
-Contact me to work somthing out, I'll take ether as a payment. Have a nice day :)  
-Etherium Wallet Address (for donating) `0xc4328d567e1AA9f945cD4BA2deCb9472f6270544`  
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AceiusIO&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AceiusIO&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
+Alot of these repos are stale/bad. I have more stuff on [GitLab](https://gitlab.com/AceiusIO)
+I make stuff, and do things on the internet for fun. I do Webdesign, Node.js, and more.
 
-#### https://acei.us
+| Stats | Top Langs |
+| --- | ---|
+|[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AceiusIO&theme=dark)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AceiusIO&theme=dark)](https://github.com/anuraghazra/github-readme-stats)|
+### https://acei.us
 <!--
 **AceiusIO/AceiusIO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
