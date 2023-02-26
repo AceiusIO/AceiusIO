@@ -1,5 +1,5 @@
-# Hi, I'm Aceius
-Alot of these repos are stale/bad. I have more stuff on [GitLab](https://gitlab.com/AceiusIO).
+<h1 align="center"> Hi, I'm Aceius </h1>
+Most of these repos are stale/bad. I have more stuff on https://gitlab.com/Aceius & my website:
 <h3 align="center"> [ https://acei.us ] </h3>
 <hr />
 <h3 align="center">My Skills</h3>
