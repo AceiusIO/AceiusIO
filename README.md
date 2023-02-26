@@ -1,9 +1,13 @@
 # Hi, I'm Aceius
-:finnadie: Alot of these repos are stale/bad. I have more stuff on [GitLab](https://gitlab.com/AceiusIO)
-I make stuff, and do things on the internet for fun. I do Webdesign, Node.js, and more.
+Alot of these repos are stale/bad. I have more stuff on [GitLab](https://gitlab.com/AceiusIO).
+<h3 align="center"> [ https://acei.us ] </h3>
+<hr />
+<h3 align="center">My Skills</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,nodejs,electron,vue,php&perline=50" />
+</p>
 
-<center>
-<img src="https://github-readme-stats.vercel.app/api?username=AceiusIO&theme=dark" />
-</center>
-
-### https://acei.us
+<h3 align="center">I use</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,git,github,gitlab,vscode" />
+</p>
