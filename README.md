@@ -9,5 +9,5 @@ Most of these repos are stale/bad. I have more stuff on https://gitlab.com/Aceiu
 
 <h3 align="center">I use</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,git,github,gitlab,vscode" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,gitlab,vscode,wordpress" />
 </p>
